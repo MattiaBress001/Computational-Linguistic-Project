@@ -1,0 +1,902 @@
+[
+  {
+    "parola": "Sincronizzato",
+    "definizione": "Qualcosa o qualcuno che appare troppo perfetto, curato in modo eccessivo e artificiale per i social media; un'apparenza costruita.",
+    "contesto_di_utilizzo": [
+      "La sua foto è super sincronizzata, non sembra nemmeno la vita vera.",
+      "Stasera mi sento troppo sincronizzato con questo outfit, devo fare un reel."
+    ],
+    "timestamp": "2026-06-08T15:38:24.454371"
+  },
+  {
+    "parola": "Modalità Turbo",
+    "definizione": "Lo stato di euforia o iperattività emotiva che si manifesta quando qualcuno è particolarmente eccitato e vuole raccontare troppe cose in poco tempo.",
+    "contesto_di_utilizzo": [
+      "Quando inizia a parlare, entra subito in modalità turbo e non ti lascia respirare.",
+      "Non so se è stanco o è in modalità turbo, ma sta scrivendo messaggi alle 3 del mattino."
+    ],
+    "timestamp": "2026-06-08T15:38:24.454418"
+  },
+  {
+    "parola": "Zoomare",
+    "definizione": "Quando un'esperienza, una persona o un momento è estremamente intenso e ti cattura completamente l'attenzione in modo positivo.",
+    "contesto_di_utilizzo": [
+      "Il concerto di ieri ha fatto proprio zoomare, non mi sono mai divertito così.",
+      "Quel film era troppo da zoomare, ho riso dalle prime minute."
+    ],
+    "timestamp": "2026-06-08T15:41:24.880510"
+  },
+  {
+    "parola": "Effetto Zero",
+    "definizione": "Qualcosa o qualcuno che riesce a fare un'impressione incredibile con uno sforzo minimo o in modo estremamente naturale.",
+    "contesto_di_utilizzo": [
+      "Ha risolto il problema dell'ultimo minuto con un effetto zero, è troppo bravo.",
+      "La sua risposta era perfetta, sembrava un effetto zero ma era geniale."
+    ],
+    "timestamp": "2026-06-08T15:41:24.880530"
+  },
+  {
+    "parola": "Floware",
+    "definizione": "Sentirsi completamente a proprio agio e nel momento giusto; avere un'ottima connessione o sintonia con l'ambiente circostante o il gruppo di persone.",
+    "contesto_di_utilizzo": [
+      "Stasera stiamo flowando troppo, non ci si può sedere.",
+      "Quando è arrivato, ha subito iniziato a floware col gruppo e tutti hanno riso."
+    ],
+    "timestamp": "2026-06-08T15:45:56.279229"
+  },
+  {
+    "parola": "Cristallino",
+    "definizione": "Qualcosa di impeccabile, perfetto o estremamente ben riuscito; usato per descrivere un dettaglio, un look o una performance senza difetti.",
+    "contesto_di_utilizzo": [
+      "Il suo outfit è cristallino, non ha un singolo dettaglio fuori posto.",
+      "La presentazione era cristallina, tutti erano impressionati dalla cura dei dettagli."
+    ],
+    "timestamp": "2026-06-08T15:45:56.279244"
+  },
+  {
+    "parola": "GigaMood",
+    "definizione": "Lo stato di euforia o perfetta armonia con l'ambiente circostante; un momento in cui ci si sente al massimo del proprio potenziale emotivo e vibrazionale.",
+    "contesto_di_utilizzo": [
+      "Stasera siamo a GigaMood, non ci si può sedere, dobbiamo ballare fino all'alba.",
+      "Quando ho sentito quella canzone in quel posto, sono entrato subito in GigaMood."
+    ],
+    "timestamp": "2026-06-08T15:50:22.306142"
+  },
+  {
+    "parola": "Postato",
+    "definizione": "Qualcosa di superficiale, costruito o eccessivamente curato per apparire bene sui social media, ma privo di autenticità o profondità reale.",
+    "contesto_di_utilizzo": [
+      "La sua storia è troppo postata, non è vera, deve esserci qualcosa dietro.",
+      "Non credere a quello che ti ha detto, sembra tutto un postato per farti apparire migliore."
+    ],
+    "timestamp": "2026-06-08T15:50:22.306162"
+  },
+  {
+    "parola": "Deconnesso",
+    "definizione": "Sentirsi momentaneamente sopraffatto o fuori sincrono a causa di un eccessivo flusso di informazioni, stimoli sociali o eventi; uno stato di lieve paralisi mentale.",
+    "contesto_di_utilizzo": [
+      "Dopo aver letto tutte quelle storie su Instagram mi sono sentito completamente deconnesso.",
+      "Non capisco niente di quello che sta succedendo in chat, sono troppo deconnesso per seguire il filo."
+    ],
+    "timestamp": "2026-06-08T15:54:48.853147"
+  },
+  {
+    "parola": "Zoom-outare",
+    "definizione": "Avere la capacità o l'atto di prendere le distanze emotive e mentali da una situazione specifica per comprendere il quadro generale, vedendo oltre i dettagli immediati.",
+    "contesto_di_utilizzo": [
+      "Quando ho iniziato a zoom-outare dal mio problema, mi sono reso conto che era solo un piccolo dettaglio insignificante.",
+      "Dobbiamo fare un po' di zoom-out su questa discussione prima di decidere qualcosa."
+    ],
+    "timestamp": "2026-06-08T15:54:48.853162"
+  },
+  {
+    "parola": "Vibroscopio",
+    "definizione": "Lo stato di essere eccessivamente sensibili o consapevoli delle vibrazioni emotive/sociali altrui, spesso portando a un senso di sovraccarico emotivo.",
+    "contesto_di_utilizzo": [
+      "Stasera sono in Vibroscopio, non mi piace nessuno e devo stare da solo.",
+      "Non fare quel commento, sei troppo in Vibroscopio, calma."
+    ],
+    "timestamp": "2026-06-08T15:58:20.750744"
+  },
+  {
+    "parola": "Basi-livello",
+    "definizione": "Qualcosa di estremamente banale, prevedibile o che non richiede sforzo intellettuale per essere compreso/realizzato; un contenuto senza originalità.",
+    "contesto_di_utilizzo": [
+      "Quel video è Basi-livello, l'ho già visto mille volte su TikTok.",
+      "Non cercare di farci un effetto speciale, la storia è troppo Basi-livello."
+    ],
+    "timestamp": "2026-06-08T15:58:20.750761"
+  },
+  {
+    "parola": "Saturo",
+    "definizione": "Sentirsi mentalmente o emotivamente sopraffatti da un argomento, una situazione o troppe informazioni; essere stufi e non interessati a continuare.",
+    "contesto_di_utilizzo": [
+      "Dopo due ore di discorsi sul crypto-mercato, sono completamente saturo.",
+      "Non mi parlare più di quel film, sono già saturo del tema."
+    ],
+    "timestamp": "2026-06-08T16:01:50.033920"
+  },
+  {
+    "parola": "Glidare",
+    "definizione": "Agire o apparire con estrema naturalezza e spontaneità; muoversi o comportarsi in modo super cool e senza sforzo apparente.",
+    "contesto_di_utilizzo": [
+      "Ha risposto alla domanda difficile così bene che ha quasi glidato l'intervista.",
+      "Non devi forzare, fai come ti viene, così glidisci."
+    ],
+    "timestamp": "2026-06-08T16:01:50.033938"
+  },
+  {
+    "parola": "A-prova",
+    "definizione": "Qualcosa che è perfetto, impeccabile o così ben riuscito da non poter essere criticato o smontato. Usato per descrivere un successo totale.",
+    "contesto_di_utilizzo": [
+      "Il suo outfit era a-prova: nessuno poteva fare nulla contro quel look.",
+      "La presentazione che ha fatto è stata a-prova, il professore non ha trovato nessun difetto."
+    ],
+    "timestamp": "2026-06-08T16:07:17.143670"
+  },
+  {
+    "parola": "Nebuloso",
+    "definizione": "Stato di confusione mentale o distacco dalla realtà, spesso causato da troppi stimoli (social media, feste, ecc.). Sentirsi 'nebuloso' significa non riuscire a pensare chiaramente.",
+    "contesto_di_utilizzo": [
+      "Dopo la serata sono completamente nebuloso, ho bisogno di dormire per resettare il cervello.",
+      "Mi sento nebuloso oggi; mi è difficile seguire questa conversazione."
+    ],
+    "timestamp": "2026-06-08T16:07:17.143687"
+  },
+  {
+    "parola": "Overdrammare",
+    "definizione": "Agire o parlare in modo eccessivamente teatrale e esagerato, spesso per ottenere attenzione o suscitare reazioni forti.",
+    "contesto_di_utilizzo": [
+      "Non overdrammare per un ritardo di cinque minuti, stavo solo aspettando.",
+      "Ha overdrammato la cosa davanti a tutti; che cringe."
+    ],
+    "timestamp": "2026-06-08T16:12:29.554857"
+  },
+  {
+    "parola": "Snappare",
+    "definizione": "Capire immediatamente e con grande rapidità un concetto complesso o la dinamica di una situazione, come se si facesse un 'click' mentale.",
+    "contesto_di_utilizzo": [
+      "Non ho capito niente finché non mi hai spiegato il contesto; ora l'ho snappato.",
+      "Quando ha sentito il dettaglio, mi ha snappato tutto e ha iniziato a ridere."
+    ],
+    "timestamp": "2026-06-08T16:12:29.554875"
+  },
+  {
+    "parola": "Riflettore",
+    "definizione": "Essere l'oggetto di un'attenzione eccessiva, forzata o esagerata in un contesto sociale; sentirsi costantemente osservati.",
+    "contesto_di_utilizzo": [
+      "Quando mi hai fatto il riflettore davanti a tutti, ho iniziato a sudare e a impazzire.",
+      "Stasera non voglio essere il riflettore, preferisco stare in background con i miei amici."
+    ],
+    "timestamp": "2026-06-08T16:17:19.103231"
+  },
+  {
+    "parola": "Syncopato",
+    "definizione": "Qualcosa che avviene nel momento esatto o nella coincidenza perfetta e inaspettata; un evento di timing impeccabile.",
+    "contesto_di_utilizzo": [
+      "Il tuo arrivo è stato un vero syncopato per la serata, ci volevi tu.",
+      "Abbiamo avuto uno syncopato pazzesco quando abbiamo trovato quel ristorante nascosto."
+    ],
+    "timestamp": "2026-06-08T16:17:19.103250"
+  },
+  {
+    "parola": "Calibrato",
+    "definizione": "Perfettamente eseguito, ben sincronizzato o che ha il timing giusto in ogni situazione (sia un gesto, una battuta o un piano). Indica l'assenza di errori e la massima efficacia.",
+    "contesto_di_utilizzo": [
+      "La tua risposta era super calibrata, mi hai fatto ridere proprio nel momento giusto.",
+      "Il suo outfit è sempre perfettamente calibrato per ogni occasione."
+    ],
+    "timestamp": "2026-06-08T16:21:50.154633"
+  },
+  {
+    "parola": "Risonanza",
+    "definizione": "L'impatto emotivo o culturale che qualcosa ha su di te, la sensazione di connessione profonda e immediata con un contenuto, una persona o un luogo.",
+    "contesto_di_utilizzo": [
+      "Questa canzone mi fa risonare tantissimo, è proprio il mio mood del momento.",
+      "C'è una risonanza pazzesca tra noi due, parliamo di tutto e non ci stanchiamo mai."
+    ],
+    "timestamp": "2026-06-08T16:21:50.154655"
+  },
+  {
+    "parola": "Overcarico",
+    "definizione": "Stato di eccessiva preparazione o ansia per un evento che non lo merita; essere troppo concentrati su dettagli insignificanti.",
+    "contesto_di_utilizzo": [
+      "Non fare l'overcarico per il test, è solo una verifica e ti andrà bene.",
+      "Sono in overcarico perché ho visto quella storia sui social e mi ha fatto pensare a tutto."
+    ],
+    "timestamp": "2026-06-08T16:25:58.129807"
+  },
+  {
+    "parola": "Aura-Check",
+    "definizione": "L'atto di valutare rapidamente l'autenticità, il mood o la vibrazione generale di una persona o di un luogo. Se fallisce, significa che non è genuino.",
+    "contesto_di_utilizzo": [
+      "Ho fatto un aura-check su quel ragazzo e sembrava troppo perfetto per essere vero.",
+      "Il locale ha superato l'aura-check: l'atmosfera era pazzesca."
+    ],
+    "timestamp": "2026-06-08T16:25:58.129825"
+  },
+  {
+    "parola": "Focal-driftare",
+    "definizione": "Perdere improvvisamente il filo del discorso o la concentrazione in una conversazione, spesso a causa di distrazioni esterne o stanchezza mentale.",
+    "contesto_di_utilizzo": [
+      "Stavo per spiegarti tutto, ma ho iniziato a focal-driftare con i messaggi che arrivavano.",
+      "Quando mi hai parlato di quel film, sono rimasto così focal-driftato che non ho capito niente."
+    ],
+    "timestamp": "2026-06-08T16:30:38.666313"
+  },
+  {
+    "parola": "Glossato",
+    "definizione": "Qualcosa o qualcuno che appare eccessivamente curato, perfetto e artificiale, spesso per nascondere una mancanza di spontaneità o autenticità.",
+    "contesto_di_utilizzo": [
+      "Il suo post è troppo glossato, sembra che abbia pagato un'agenzia per farlo.",
+      "Non fidarti di quella storia, è tutta glossata e non ha nulla di genuino."
+    ],
+    "timestamp": "2026-06-08T16:30:38.666339"
+  },
+  {
+    "parola": "Zoombaiare",
+    "definizione": "Muoversi o interagire con estrema naturalezza e successo in un contesto sociale; avere il 'flow' perfetto senza sforzo.",
+    "contesto_di_utilizzo": [
+      "Stasera non devo fare lo scemo, devo solo zoombaiare tra i tavoli per trovare l'atmosfera giusta.",
+      "Quando ha parlato di quel progetto, è risuonato e ha iniziato a zoombaiare con la gente senza sembrare forzato."
+    ],
+    "timestamp": "2026-06-08T16:35:35.906604"
+  },
+  {
+    "parola": "Setacciare",
+    "definizione": "Giudicare o analizzare qualcuno/qualcosa in modo eccessivamente critico, superficiale e dettagliato, come se si stesse passando un filtro di perfezione.",
+    "contesto_di_utilizzo": [
+      "Non fare il setacciare sui miei vestiti solo perché non sono brandizzati; mi piace lo stile.",
+      "Ha iniziato subito a setacciarmi i commenti online, tipo 'non è abbastanza originale', e ho capito che era invidioso."
+    ],
+    "timestamp": "2026-06-08T16:35:35.906622"
+  },
+  {
+    "parola": "Filtro-OK",
+    "definizione": "Quando un momento, una persona o una situazione è così perfetta e curata da sembrare impeccabile per i social media, quasi irreale.",
+    "contesto_di_utilizzo": [
+      "Quella foto era troppo Filtro-OK; non riflette la realtà del caos che eravamo.",
+      "Il suo outfit è sempre Filtro-OK, lo sa fare."
+    ],
+    "timestamp": "2026-06-08T16:40:03.452057"
+  },
+  {
+    "parola": "Loopare",
+    "definizione": "Ripercorrere mentalmente un evento o una conversazione più volte, analizzandone ogni dettaglio in modo eccessivo e spesso inutile.",
+    "contesto_di_utilizzo": [
+      "Smettila di loopare su cosa ha detto ieri sera; non cambia nulla.",
+      "Sono rimasto a casa per ore perché stavo loopando il nostro primo incontro."
+    ],
+    "timestamp": "2026-06-08T16:40:03.452074"
+  },
+  {
+    "parola": "Flash-sync",
+    "definizione": "Il momento di improvvisa e cristallina comprensione o allineamento perfetto con una situazione, un'idea o una persona. Un 'click' mentale immediato.",
+    "contesto_di_utilizzo": [
+      "Quando ha spiegato il concetto, ho fatto un flash-sync totale: finalmente ho capito!",
+      "Il loro umorismo è sempre in flash-sync con l'atmosfera del gruppo."
+    ],
+    "timestamp": "2026-06-08T16:44:28.930699"
+  },
+  {
+    "parola": "Auto-floware",
+    "definizione": "Agire o esistere con una naturalezza e un fascino che sembra non richiedere sforzo, ma risulta estremamente efficace ed elegante.",
+    "contesto_di_utilizzo": [
+      "Non ha studiato per l'esame, ma è riuscito a superarlo in auto-floware.",
+      "Il suo outfit è un vero auto-flow: sembra che sia nato così."
+    ],
+    "timestamp": "2026-06-08T16:44:28.930718"
+  },
+  {
+    "parola": "Pixelare",
+    "definizione": "Rendere un momento o una situazione perfetta, nitida e senza difetti; descrivere qualcosa che ha una qualità visiva o emotiva estremamente alta (come se fosse ad altissima risoluzione).",
+    "contesto_di_utilizzo": [
+      "Il tramonto di stamattina era così pixelato che sembrava un filtro da sogno.",
+      "Quando mi ha risposto con quella battuta, mi ha pixelato completamente."
+    ],
+    "timestamp": "2026-06-08T16:49:56.968466"
+  },
+  {
+    "parola": "Lagging",
+    "definizione": "Essere fuori sincro con l'atmosfera o la situazione; agire lentamente o sembrare disconnessi dal momento presente (derivato dall'inglese 'lag').",
+    "contesto_di_utilizzo": [
+      "Stasera sei un po' lagging, non ti stai divertendo come gli altri.",
+      "Quando ho provato a spiegarglielo, ha fatto tipo lagging e mi ha guardato male."
+    ],
+    "timestamp": "2026-06-08T16:49:56.968493"
+  },
+  {
+    "parola": "Eco-stare",
+    "definizione": "Essere perfettamente in sintonia con l'ambiente o la situazione attuale; sentirsi a proprio agio e autentici, senza sforzo. Indica un senso di naturale armonia.",
+    "contesto_di_utilizzo": [
+      "Non devi forzare nulla stasera, sei super eco-stare con quel gruppo.",
+      "Quando è arrivato in ritardo ma ha fatto la battuta giusta, l'atmosfera è subito diventata eco-stare."
+    ],
+    "timestamp": "2026-06-08T16:54:09.979366"
+  },
+  {
+    "parola": "Ripetitizzare",
+    "definizione": "Agire o parlare in modo prevedibile, banale o cliché; dimostrare una mancanza di originalità nel pensiero o nell'azione.",
+    "contesto_di_utilizzo": [
+      "Non fare quel discorso, è troppo ripetitizzare quello che ha detto l'anno scorso.",
+      "Ha provato a scherzare sul mio outfit, ma era così banale che lo ho subito ripetitizzato."
+    ],
+    "timestamp": "2026-06-08T16:54:09.979395"
+  },
+  {
+    "parola": "Decibelare",
+    "definizione": "Essere in uno stato di eccitazione o confusione eccessiva causata da troppi stimoli esterni (rumore, informazioni, persone).",
+    "contesto_di_utilizzo": [
+      "Stasera sono troppo decibelato, non riesco a concentrarmi su nulla.",
+      "Non mi guardare così, mi stai facendo decibelare con i tuoi complimenti!"
+    ],
+    "timestamp": "2026-06-08T16:59:09.204876"
+  },
+  {
+    "parola": "Ghost-vibrare",
+    "definizione": "A comportarsi in modo passivo e poco impegnato; emettere una presenza minima ma visibile senza investire energia emotiva o attenzione reale.",
+    "contesto_di_utilizzo": [
+      "Stasera è solo ghost-vibrante, non mi sta dando attenzioni vere.",
+      "Smettila di ghost-vibrare e dimmi cosa vuoi veramente."
+    ],
+    "timestamp": "2026-06-08T16:59:09.204889"
+  },
+  {
+    "parola": "Immerso-stato",
+    "definizione": "Uno stato di profonda assorbimento in un'esperienza o momento, al punto da isolarsi volontariamente dall'ambiente circostante.",
+    "contesto_di_utilizzo": [
+      "Quando siamo stati a quel concerto, eravamo in uno stato immerso-stato totale e non abbiamo notato nessuno.",
+      "Mi hai chiesto cosa è successo? Non ci stavo, ero in un immerso-stato di pensieri."
+    ],
+    "timestamp": "2026-06-08T17:03:14.253960"
+  },
+  {
+    "parola": "Cura-finto",
+    "definizione": "Qualcosa (soprattutto sui social media) che appare perfettamente costruito e curato esteticamente, ma che è fondamentalmente esagerato o falso.",
+    "contesto_di_utilizzo": [
+      "La sua vacanza sembra perfetta, ma sospetto sia tutto un cura-finto per i follower.",
+      "Non credere a quelle foto di felicità; sono solo puro cura-finto."
+    ],
+    "timestamp": "2026-06-08T17:03:14.253979"
+  },
+  {
+    "parola": "Over-renderare",
+    "definizione": "Sforzarsi eccessivamente per apparire perfetti, complessi o dettagliati in un contesto sociale o digitale; esagerare nel tentativo di curare ogni aspetto della propria immagine.",
+    "contesto_di_utilizzo": [
+      "Non devi over-renderare la tua vita sui social solo perché è bello. Sembra forzato.",
+      "Quel suo discorso era troppo over-renderato, sembrava scritto da un algoritmo."
+    ],
+    "timestamp": "2026-06-08T17:15:10.184894"
+  },
+  {
+    "parola": "Raw-inputtare",
+    "definizione": "Agire o esistere in modo completamente spontaneo e non filtrato; essere autentici senza sforzo né preparazione eccessiva.",
+    "contesto_di_utilizzo": [
+      "Finalmente si è rilassato, oggi ha fatto un momento raw-inputtissimo al parco.",
+      "Non cercare di 'raw-inputtare' per me. Sono più genuino quando sono stanco."
+    ],
+    "timestamp": "2026-06-08T17:15:10.184936"
+  },
+  {
+    "parola": "Velo-stato",
+    "definizione": "Uno stato di grazia o perfetta naturalezza; apparire spontaneo e impeccabile senza sforzo apparente, quasi come se fosse un filtro naturale.",
+    "contesto_di_utilizzo": [
+      "Quel look è un vero Velo-stato, non sembra che ti sia preparato per l'occasione.",
+      "Quando parla di quel progetto ha sempre questo Velo-stato incredibile, tutti sono affascinati."
+    ],
+    "timestamp": "2026-06-08T17:19:36.049383"
+  },
+  {
+    "parola": "Errore-Depth",
+    "definizione": "Riferito a qualcosa o qualcuno che appare superficiale, privo di sostanza emotiva o intellettuale; un contenuto vuoto o forzato.",
+    "contesto_di_utilizzo": [
+      "Questa storia è piena di Errore-Depth, non c'è nulla di vero dietro.",
+      "Non capisco come abbia fatto a postare una cosa così con questo Errore-Depth emotivo."
+    ],
+    "timestamp": "2026-06-08T17:19:36.049399"
+  },
+  {
+    "parola": "Stellareggio",
+    "definizione": "L'atto di esagerare o simulare un comportamento, una reazione o un dramma per apparire più interessante, importante o emotivamente coinvolto di quanto non si sia realmente; fare la parte.",
+    "contesto_di_utilizzo": [
+      "Non fare il tuo stellareggio con questa cosa, è banale.",
+      "Mi ha fatto passare tutto l'incontro in modalità stellareggio per attirare l'attenzione."
+    ],
+    "timestamp": "2026-06-08T17:24:12.267624"
+  },
+  {
+    "parola": "Rebobinare",
+    "definizione": "Ripercorrere mentalmente o verbalmente un evento, una conversazione o un momento passato analizzandolo eccessivamente e spesso in modo negativo, come se si stesse riavvolgendo un video per trovare difetti.",
+    "contesto_di_utilizzo": [
+      "Smettila di rebobinare quel litigio; è successo e basta.",
+      "Mi ha fatto rebobinare tutto il discorso perché non ho capito la sfumatura che volevi dare."
+    ],
+    "timestamp": "2026-06-08T17:24:12.267642"
+  },
+  {
+    "parola": "Sottotono",
+    "definizione": "Un'atmosfera o un sentimento sottile e non esplicito che pervade una situazione, percepibile solo da chi è particolarmente attento alle sfumature relazionali.",
+    "contesto_di_utilizzo": [
+      "Non so cosa sia successo tra noi ieri sera, ma c'è un sottotono strano nell'aria.",
+      "Il suo silenzio aveva un sottotono di noia che mi ha avvisato subito che non era interessato."
+    ],
+    "timestamp": "2026-06-08T17:28:47.753202"
+  },
+  {
+    "parola": "Iper-focusare",
+    "definizione": "Concentrarsi in modo eccessivo e quasi ossessivo su un dettaglio banale o transitorio, ignorando il contesto generale della conversazione.",
+    "contesto_di_utilizzo": [
+      "Quando stavo parlando di cose serie, ha iniziato a iper-focusare sul mio cappellino invece di ascoltarmi.",
+      "Smettila di iper-focusare sui meme vecchi e riprendi il filo del discorso."
+    ],
+    "timestamp": "2026-06-08T17:28:47.753215"
+  },
+  {
+    "parola": "Effimereizzare",
+    "definizione": "Ridurre qualcosa o qualcuno a un momento fugace, superficiale o di poco valore duraturo; apparire insostanziale per mancanza di profondità.",
+    "contesto_di_utilizzo": [
+      "Non fare l'effimereizzare con quel commento, ci vuole sostanza.",
+      "La sua reazione è stata solo effimereizzante, non ha capito la complessità del problema."
+    ],
+    "timestamp": "2026-06-08T17:32:27.785673"
+  },
+  {
+    "parola": "Buffer-mindare",
+    "definizione": "Essere momentaneamente confusi, rallentati o incapaci di reagire rapidamente a causa di un eccesso di stimoli digitali o informazioni simultanee.",
+    "contesto_di_utilizzo": [
+      "Mi sono buffer-mindato dopo aver letto tutti quei thread su Twitter contemporaneamente.",
+      "Aspetta un attimo, il cervello fa buffering, devo riorganizzare i pensieri."
+    ],
+    "timestamp": "2026-06-08T17:32:27.785689"
+  },
+  {
+    "parola": "Meta-blocco",
+    "definizione": "Lo stato di eccessiva consapevolezza di sé o della situazione, che porta a una paralisi decisionale perché si sta pensando troppo al *come* apparire piuttosto che all'azione stessa.",
+    "contesto_di_utilizzo": [
+      "Sono in meta-blocco totale, non so se dirti la verità o come farmi sembrare cool davanti agli altri.",
+      "Ho provato a rispondere ma sono bloccato in un meta-blocco di ansia da performance."
+    ],
+    "timestamp": "2026-06-08T17:37:16.303975"
+  },
+  {
+    "parola": "Gravitazionale",
+    "definizione": "Qualcosa che accade con una naturalezza perfetta, senza sforzo apparente, come se fosse dettato dalle leggi della fisica sociale o del destino.",
+    "contesto_di_utilizzo": [
+      "L'incontro è stato totalmente gravitazionale; ci siamo capiti subito anche senza parlare.",
+      "Non era un piano, ma la loro collaborazione è palesemente gravitazionale."
+    ],
+    "timestamp": "2026-06-08T17:37:16.303992"
+  },
+  {
+    "parola": "Deep-Diveare",
+    "definizione": "Analizzare un argomento o una situazione in modo estremamente approfondito, quasi accademico; dedicarsi a pensieri complessi.",
+    "contesto_di_utilizzo": [
+      "Non mi chiedere di spiegarti la teoria, ho fatto il deep-dive e sono saturo.",
+      "Stasera ci sediamo a deep-diveare quel progetto per capire i colli di bottiglia."
+    ],
+    "timestamp": "2026-06-08T17:38:20.038488"
+  },
+  {
+    "parola": "Glitch-vibrare",
+    "definizione": "Comportarsi in modo incoerente, imprevedibile o con piccole interruzioni emotive/sociali; sembrare 'fuori sincro' senza motivo apparente.",
+    "contesto_di_utilizzo": [
+      "Non so cosa ti è successo, oggi stai glitch-vibrando troppo. Sei ok?",
+      "Il suo racconto era pieno di momenti che sembravano glitch-vibrare tra la realtà e il meme."
+    ],
+    "timestamp": "2026-06-08T17:38:20.038506"
+  },
+  {
+    "parola": "Eco-risonante",
+    "definizione": "Qualcosa o qualcuno che ripete opinioni, comportamenti o esperienze estremamente comuni e prevedibili, senza aggiungere nulla di originale o personale; un pensiero non autonomo.",
+    "contesto_di_utilizzo": [
+      "Non fare l'eco-risonante sui social, devi avere una tua prospettiva.",
+      "Il suo commento era talmente eco-risonante che ho chiuso la tab e ho ignorato."
+    ],
+    "timestamp": "2026-06-08T17:43:26.317443"
+  },
+  {
+    "parola": "Syn-stressare",
+    "definizione": "Sentirsi sopraffatti o confusi da un eccesso di stimoli emotivi, sociali o informativi in un breve lasso di tempo; l'effetto di troppe interazioni ravvicinate.",
+    "contesto_di_utilizzo": [
+      "Dopo quel meeting con dieci persone mi sono sentita completamente syn-stressata.",
+      "Non parlarmi di quel dramma ora, sono troppo syn-stressato per processare tutto."
+    ],
+    "timestamp": "2026-06-08T17:43:26.317459"
+  },
+  {
+    "parola": "Reso-zero",
+    "definizione": "Sensazione di stanchezza mentale o emotiva che porta a un blocco creativo o decisionale, come se l'energia fosse stata completamente 'risolta' o consumata.",
+    "contesto_di_utilizzo": [
+      "Dopo quella riunione ho il reso-zero totale, non riesco più a pensare.",
+      "Quando mi capita un reso-zero così, preferisco stare sul divano e non fare nulla."
+    ],
+    "timestamp": "2026-06-08T17:44:36.201791"
+  },
+  {
+    "parola": "Beta-testare",
+    "definizione": "Mettere alla prova o provare qualcosa (un'idea, una persona, un progetto) in modo informale e parziale, per capire se funziona prima di impegnarsi completamente.",
+    "contesto_di_utilizzo": [
+      "Non ti racconto tutto subito, devo prima beta-testare l'idea con i miei amici.",
+      "Stasera andiamo a quel locale? Facciamo un mini beta-test e vediamo come va."
+    ],
+    "timestamp": "2026-06-08T17:44:36.201804"
+  },
+  {
+    "parola": "Vuotare-vibro",
+    "definizione": "Sentirsi emotivamente o mentalmente esauriti, disconnessi e svuotati dopo un eccesso di stimoli sociali, informazioni o interazioni intense.",
+    "contesto_di_utilizzo": [
+      "Dopo la festa mi sento completamente vuotare-vibro; ho bisogno di silenzio totale.",
+      "Non forzare oggi, sembri in modalità vuotare-vibro e hai bisogno di ricaricare le batterie."
+    ],
+    "timestamp": "2026-06-08T17:49:11.373254"
+  },
+  {
+    "parola": "Schema-gripare",
+    "definizione": "Comprendere immediatamente il meccanismo nascosto o lo scopo sottile (spesso ironico) dietro una situazione, un commento o un comportamento altrui.",
+    "contesto_di_utilizzo": [
+      "Quando ha detto quella cosa, ho subito schema-gripato l'ironia che non voleva far passare.",
+      "Non ti fidare di quello che dice; c'è uno schema-grippare più profondo dietro le sue parole."
+    ],
+    "timestamp": "2026-06-08T17:49:11.373271"
+  },
+  {
+    "parola": "Scenario-checkare",
+    "definizione": "Verificare se una situazione, un evento o un'interazione è autentica e spontanea, oppure se è stata meticolosamente costruita (spesso per apparire bene sui social media).",
+    "contesto_di_utilizzo": [
+      "Quel party sembrava tutto scenario-checkato, non era una festa vera.",
+      "Non credere subito a quello che ti racconta; c'è qualcosa di troppo 'scenario-checkare'."
+    ],
+    "timestamp": "2026-06-08T17:53:56.315733"
+  },
+  {
+    "parola": "Stimolo-dipendere",
+    "definizione": "Essere emotivamente o mentalmente dipendenti dagli stimoli esterni (come notifiche, commenti, trend) per sentirsi validati o vivi.",
+    "contesto_di_utilizzo": [
+      "È troppo stimolo-dipendente; se non ha il telefono, va in crisi esistenziale.",
+      "Ho provato a smettere di stimolo-dipendere dai like e mi sono sentito più calmo."
+    ],
+    "timestamp": "2026-06-08T17:53:56.315751"
+  },
+  {
+    "parola": "Disincronare",
+    "definizione": "Perdere il senso del contesto o della realtà a causa di troppi stimoli esterni, risultando fuori fase con ciò che accade; sentirsi mentalmente 'sfasati'.",
+    "contesto_di_utilizzo": [
+      "Dopo aver letto tutti quei commenti, mi sono completamente disincronato dalla conversazione.",
+      "Stasera non voglio fare sforzi per capire, oggi sono troppo disincronato."
+    ],
+    "timestamp": "2026-06-08T17:58:45.066095"
+  },
+  {
+    "parola": "Eco-spargere",
+    "definizione": "Diffondere un'energia, un'atmosfera o una reazione così potente da risuonare in modo eccessivo nel gruppo; lasciare un impatto emotivo persistente e amplificato.",
+    "contesto_di_utilizzo": [
+      "Quando è entrato nella stanza ha eco-spargere l'hype su tutti noi, non ci siamo ripresi.",
+      "Attenzione a quello che dici, perché rischi di eco-spargere un mood negativo."
+    ],
+    "timestamp": "2026-06-08T17:58:45.066112"
+  },
+  {
+    "parola": "De-focalizzare",
+    "definizione": "Perdere completamente il senso della realtà o dell'attenzione in un contesto eccessivamente caotico, risultando momentaneamente disorientati.",
+    "contesto_di_utilizzo": [
+      "Dopo la riunione è stato così tanto rumore che sono totalmente defocalizzato.",
+      "Non riesco a seguire quello che dici, mi sento troppo de-focalizzato oggi."
+    ],
+    "timestamp": "2026-06-08T18:02:37.397651"
+  },
+  {
+    "parola": "Emanare-core",
+    "definizione": "Proiettare un'autenticità o una passione così intensa da essere quasi fisica e palpabile.",
+    "contesto_di_utilizzo": [
+      "Quando ha parlato della sua missione, emana-core pazzesco, ti fai venire la pelle d'oca.",
+      "Non è solo bravo tecnicamente, ma emana-core che fa la differenza."
+    ],
+    "timestamp": "2026-06-08T18:02:37.397671"
+  },
+  {
+    "parola": "Attenzione-saturare",
+    "definizione": "L'atto di bombardare qualcuno con troppi stimoli, informazioni o dettagli contemporaneamente, rendendo difficile focalizzarsi su un singolo argomento o emozione.",
+    "contesto_di_utilizzo": [
+      "Non posso seguire la conversazione, mi stai attenzione-saturando con questi mille dettagli inutili.",
+      "Il video era pieno di transizioni e notifiche troppo veloci; mi ha quasi attenzione-saturato."
+    ],
+    "timestamp": "2026-06-08T18:06:57.029502"
+  },
+  {
+    "parola": "Filtro-reale",
+    "definizione": "Lo stato o l'effetto di percepire una situazione, persona o evento come eccessivamente idealizzato, artificiale o perfetto, tipico dei contenuti social filtrati e patinati.",
+    "contesto_di_utilizzo": [
+      "La sua vita sembra un filtro-reale; non è così nella realtà, mi sa che sta nascondendo qualcosa.",
+      "Ho capito subito che era solo filtro-reale: il party era bellissimo ma totalmente costruito per le foto."
+    ],
+    "timestamp": "2026-06-08T18:06:57.029519"
+  },
+  {
+    "parola": "Pixel-blocco",
+    "definizione": "Stato di confusione mentale o paralisi decisionale, simile a un malfunzionamento digitale che impedisce il progresso del pensiero.",
+    "contesto_di_utilizzo": [
+      "Sono in Pixel-blocco totale, non riesco a decidere cosa mangiare stasera.",
+      "Quando mi chiedono un parere e ho troppi input, entro subito in Pixel-blocco."
+    ],
+    "timestamp": "2026-06-08T18:08:03.228969"
+  },
+  {
+    "parola": "Stream-mute",
+    "definizione": "L'atto di interrompere bruscamente una conversazione o un flusso di pensieri per auto-protezione emotiva o per evitare il giudizio altrui.",
+    "contesto_di_utilizzo": [
+      "Appena ha iniziato a parlare del suo lavoro, ho fatto Stream-mute e ho cambiato argomento.",
+      "Se mi senti silenzioso oggi, non è che sono arrabbiato, è solo che devo fare un po' di Stream-mute."
+    ],
+    "timestamp": "2026-06-08T18:08:03.228986"
+  },
+  {
+    "parola": "Sfondo-filtrare",
+    "definizione": "L'atto di rimuovere o minimizzare i dettagli contestuali non essenziali per rendere un evento, una persona o un ricordo più 'perfetto' e digeribile sui social media.",
+    "contesto_di_utilizzo": [
+      "Ha sfuocato lo sfondo-filtrando la parte caotica dell'incontro per Instagram.",
+      "Non ti fidare delle sue storie: tutto è fondo-filtrato, non è la realtà."
+    ],
+    "timestamp": "2026-06-08T18:12:13.332721"
+  },
+  {
+    "parola": "Feed-saturare",
+    "definizione": "Sentirsi sopraffatti o mentalmente stanchi dopo aver consumato un eccessivo e non selettivo flusso di contenuti digitali, portando a una sensazione di vuoto informativo.",
+    "contesto_di_utilizzo": [
+      "Dopo tre ore a scrollare senza meta, sono completamente feed-saturato e devo spegnere tutto.",
+      "Se continui così, ti fai un feed-saturamento cronico."
+    ],
+    "timestamp": "2026-06-08T18:12:13.332750"
+  },
+  {
+    "parola": "Sguardo-scan",
+    "definizione": "L'atto di analizzare intensamente e superficialmente il comportamento, l'abbigliamento o le parole di qualcuno, cercando immediatamente difetti, incongruenze sociali o debolezze.",
+    "contesto_di_utilizzo": [
+      "Quando ho detto la verità, mi ha fatto un vero sguardo-scan che mi ha messo a disagio.",
+      "Non fare lo sguardo-scan su di me, sai benissimo che sono a posto."
+    ],
+    "timestamp": "2026-06-08T18:16:18.740457"
+  },
+  {
+    "parola": "Filtro-emotivo",
+    "definizione": "L'atto di presentare un sentimento o una situazione in modo artificiale e eccessivamente curato per ottenere approvazione sociale, senza che vi sia autenticità emotiva.",
+    "contesto_di_utilizzo": [
+      "Quel suo messaggio era solo un filtro-emotivo per sembrare più empatico.",
+      "Non farti ingannare dalle sue storie: è tutto costruito su un filtro-emotivo perfetto."
+    ],
+    "timestamp": "2026-06-08T18:16:18.740473"
+  },
+  {
+    "parola": "Rebootare-mood",
+    "definizione": "Stato emotivo o mentale che richiede un reset completo per tornare alla normalità, spesso dopo un periodo di stress eccessivo o sovraccarico informativo.",
+    "contesto_di_utilizzo": [
+      "Dopo quella settimana è in rebootare-mood totale; non mi ricordo più niente.",
+      "Ho bisogno di staccare completamente, devo fare un po' di rebootare-mood per ricaricare le batterie."
+    ],
+    "timestamp": "2026-06-08T18:17:26.060394"
+  },
+  {
+    "parola": "Viraleggio",
+    "definizione": "Sensazione o stato di essere estremamente popolari e diffusi in modo rapido sui social media, ma spesso superficiale e effimero.",
+    "contesto_di_utilizzo": [
+      "Non è un successo vero, è solo un viraleggio che passerà tra due settimane.",
+      "Quando hai quel tipo di contenuto che fa il viraleggio, ti senti potentissimo."
+    ],
+    "timestamp": "2026-06-08T18:17:26.060410"
+  },
+  {
+    "parola": "Over-pitchare",
+    "definizione": "Esagerare o esaltare eccessivamente un'emozione, una situazione o un evento in modo forzato e teatrale.",
+    "contesto_di_utilizzo": [
+      "Non over-pitchare così tanto il successo; è stata solo una presentazione normale.",
+      "Quando ha raccontato la storia del gatto smarrito, sembrava che stesse over-pitchando ogni dettaglio."
+    ],
+    "timestamp": "2026-06-08T18:18:35.136141"
+  },
+  {
+    "parola": "Frame-saltare",
+    "definizione": "Perdere il filo di un discorso o di una conversazione perché si è distratti o la situazione è troppo caotica; saltellare tra argomenti senza continuità.",
+    "contesto_di_utilizzo": [
+      "Scusa, ho frame-saltato. Stavi dicendo che andavamo al cinema o che dovevamo studiare?",
+      "La riunione era così confusa che siamo riusciti a frame-saltare tre obiettivi diversi."
+    ],
+    "timestamp": "2026-06-08T18:18:35.136179"
+  },
+  {
+    "parola": "Esteti-blocco",
+    "definizione": "Lo stato di apparire costantemente perfetti o curati in modo eccessivo per i social media, anche quando non lo si è realmente.",
+    "contesto_di_utilizzo": [
+      "Non ti sembra che stia sempre in Esteti-blocco? È troppo perfetto per essere vero.",
+      "Ho smesso di fare gli sforzi per l'Esteti-blocco, voglio solo un post spontaneo oggi."
+    ],
+    "timestamp": "2026-06-08T18:23:08.230241"
+  },
+  {
+    "parola": "Noise-fatica",
+    "definizione": "L'esaurimento mentale o emotivo causato dall'eccesso di stimoli digitali, informazioni o interazioni sociali superficiali.",
+    "contesto_di_utilizzo": [
+      "Dopo aver scrollato tutto il feed per tre ore ho avuto una vera Noise-fatica e non riesco a pensare.",
+      "Devo staccare dal telefono; questa costante esposizione mi sta dando un'acuta Noise-fatica."
+    ],
+    "timestamp": "2026-06-08T18:23:08.230257"
+  },
+  {
+    "parola": "Swipe-sospeso",
+    "definizione": "Lo stato di sospensione o esitazione mentale che si verifica quando si è bombardati da troppe informazioni digitali, portando a una paralisi decisionale simile all'atto di scorrere un feed senza scegliere nulla.",
+    "contesto_di_utilizzo": [
+      "Dopo aver letto cinquanta articoli su TikTok, sono entrato in uno stato di swipe-sospeso totale.",
+      "Non so cosa rispondere; mi trovo in uno swipe-sospeso emotivo davanti a questa chat."
+    ],
+    "timestamp": "2026-06-08T18:24:22.341513"
+  },
+  {
+    "parola": "Core-bypassare",
+    "definizione": "Ignorare completamente il senso comune, la logica o le aspettative sociali per seguire un impulso creativo o emotivo totalmente spontaneo e irrazionale.",
+    "contesto_di_utilizzo": [
+      "Oggi ho deciso di core-bypassare tutti i miei impegni e fare solo quello che mi va.",
+      "La sua risposta è stata così fuori luogo da sembrare un vero e proprio core-bypassare della realtà."
+    ],
+    "timestamp": "2026-06-08T18:24:22.341530"
+  },
+  {
+    "parola": "Vetrina-izzare",
+    "definizione": "Trasformare la propria vita, un evento o un'esperienza in una vetrina iper-curata e artificiale per la condivisione sui social media.",
+    "contesto_di_utilizzo": [
+      "Non è successo davvero come lo racconta; l'ha solo vetrinaizzato su Insta.",
+      "La sua vacanza sembra sempre che stia vetrinaizzando qualcosa di troppo perfetto."
+    ],
+    "timestamp": "2026-06-08T18:29:45.304857"
+  },
+  {
+    "parola": "Rumor-vibrante",
+    "definizione": "Lo stato di eccessiva stimolazione sensoriale o emotiva derivante da un flusso continuo e caotico di informazioni (audio, visivo, sociale).",
+    "contesto_di_utilizzo": [
+      "Dopo il festival è rimasto in uno stato rumor-vibrante e non riusciva a concentrarsi.",
+      "Ho provato a staccare dal rumor-vibrante del feed infinito per ricaricare le batterie."
+    ],
+    "timestamp": "2026-06-08T18:29:45.304875"
+  },
+  {
+    "parola": "Sfondo-sentire",
+    "definizione": "Il processo di reagire o mostrare interesse per qualcosa solo per conformarsi a un gruppo sociale o all'ambiente circostante, senza che vi sia una vera connessione emotiva o intellettuale. È l'effetto 'sono qui ma non ci sono'.",
+    "contesto_di_utilizzo": [
+      "Non mi fidare di quello, sta solo sfondo-sentendo la storia per sembrare parte del gruppo.",
+      "Il suo commento era totalmente fuori luogo; un puro tentativo di sfondo-sentire."
+    ],
+    "timestamp": "2026-06-08T18:34:49.806509"
+  },
+  {
+    "parola": "Scorrimento-blocco",
+    "definizione": "Lo stato di stanchezza mentale e fisica derivante dall'eccessivo e passivo scorrere di contenuti digitali (scrolling) senza assorbirne nulla, portando a un senso di vuoto informativo.",
+    "contesto_di_utilizzo": [
+      "Dopo due ore sul feed, sono in uno stato totale di scorrimento-blocco e non ricordo più cosa stavo leggendo.",
+      "Mi ha dato un senso di scorrimento-blocco stamattina; ho perso completamente il filo del discorso."
+    ],
+    "timestamp": "2026-06-08T18:34:49.806521"
+  },
+  {
+    "parola": "Hyperbolizzare",
+    "definizione": "Esagerare intenzionalmente una situazione, un sentimento o un evento per ottenere maggiore impatto emotivo o attenzione, spesso in modo teatrale e eccessivo.",
+    "contesto_di_utilizzo": [
+      "Non devi *hyperbolizzare* il fatto che sei arrabbiato; è solo un piccolo contrattempo.",
+      "Ha *hyperbolizzato* la sua reazione al mio commento per sembrare più drammatico di quanto non fosse."
+    ],
+    "timestamp": "2026-06-08T18:39:36.341610"
+  },
+  {
+    "parola": "Self-centrificar",
+    "definizione": "Comportarsi in modo da rendere sé stessi il fulcro assoluto di ogni conversazione o evento, ignorando attivamente gli altri partecipanti.",
+    "contesto_di_utilizzo": [
+      "Quando inizia a *self-centrificarsi*, è chiaro che vuole solo parlare di sé e dei suoi problemi.",
+      "Ho dovuto interromperlo perché stava *self-centrificando* troppo il racconto, non ci siamo mai più."
+    ],
+    "timestamp": "2026-06-08T18:39:36.341635"
+  },
+  {
+    "parola": "Ghost-swipeare",
+    "definizione": "Scorrere passivamente o senza vera intenzione su contenuti digitali (come feed o stories), dando l'impressione di non guardare nulla in particolare, ma solo di 'esserci'.",
+    "contesto_di_utilizzo": [
+      "Non mi chiedere cosa ho fatto stamattina, stavo solo ghost-swipeando tra i reel.",
+      "Ha quel look da chi è troppo impegnato a ghost-swipeare per notare quello che succede intorno."
+    ],
+    "timestamp": "2026-06-08T18:40:55.973605"
+  },
+  {
+    "parola": "Mood-ping",
+    "definizione": "Un'interazione rapida e non verbale (spesso tramite emoji, GIF o un meme specifico) usata per confermare immediatamente la comprensione di uno stato d'animo altrui senza dover spiegare nulla.",
+    "contesto_di_utilizzo": [
+      "Ho mandato quel meme alle 10:00; era il nostro mood-ping perfetto per l'inizio settimana.",
+      "Non mi ha chiesto come stavo, ma con un '😂💀', ed è stato un vero e proprio mood-ping di complicità."
+    ],
+    "timestamp": "2026-06-08T18:40:55.973621"
+  },
+  {
+    "parola": "Input-blocco",
+    "definizione": "Stato di sovraccarico cognitivo causato da un eccesso continuo e non filtrato di stimoli digitali o informazioni, che porta a una paralisi decisionale.",
+    "contesto_di_utilizzo": [
+      "Dopo aver scrollato i feed per ore, sono entrata in un vero input-blocco e non riuscivo a decidere cosa guardare.",
+      "Non mi parlare di politica adesso, ho un input-blocco totale, devo resettarmi."
+    ],
+    "timestamp": "2026-06-08T18:44:53.599381"
+  },
+  {
+    "parola": "Scriptare-mood",
+    "definizione": "Avere o percepire che un'emozione, una reazione o un comportamento è eccessivamente costruito e performativo per l'obiettivo di apparire bene sui social media.",
+    "contesto_di_utilizzo": [
+      "Il suo pianto sembrava troppo perfetto, mi ha fatto pensare che stesse solo scriptare-mood per le Story.",
+      "Non credere a quel tuo entusiasmo; è un puro scriptare-mood da influencer."
+    ],
+    "timestamp": "2026-06-08T18:44:53.599399"
+  },
+  {
+    "parola": "Vibe-scansionare",
+    "definizione": "Analizzare rapidamente l'atmosfera o lo stato d'animo generale di un gruppo o di una situazione, come se si stesse eseguendo uno scan tecnico.",
+    "contesto_di_utilizzo": [
+      "Prima che arrivassero, ho dovuto vibe-scansionare il mood: sembrava c'era tensione.",
+      "Non ti fidare del suo silenzio; devi fare un po' di vibe-scansionare per capire cosa nasconde."
+    ],
+    "timestamp": "2026-06-08T18:46:05.201358"
+  },
+  {
+    "parola": "Pixelizzare",
+    "definizione": "Rendere una persona o una situazione irriconoscibile, banale o priva di dettagli emotivi complessi; farla sembrare un'immagine a bassa risoluzione.",
+    "contesto_di_utilizzo": [
+      "Quando ha iniziato a parlare solo di soldi, mi ha pixelizzato e ho capito che non era sincero.",
+      "Non fare il solito 'pixelizzare' le mie emozioni per farti notare."
+    ],
+    "timestamp": "2026-06-08T18:46:05.201373"
+  },
+  {
+    "parola": "Spirito-stallo",
+    "definizione": "Sensazione di blocco creativo o mentale, quando l'ispirazione è assente e si rimane in un limbo produttivo.",
+    "contesto_di_utilizzo": [
+      "Sono in Spirito-stallo da tre giorni, non riesco a scrivere nemmeno una riga decente.",
+      "Dobbiamo fare qualcosa per sbloccare il gruppo; siamo tutti in Spirito-stallo."
+    ],
+    "timestamp": "2026-06-08T18:47:08.666060"
+  },
+  {
+    "parola": "Echo-mute",
+    "definizione": "Stato di apatia o indifferenza emotiva verso situazioni che prima erano cariche, spesso causata dalla saturazione informativa.",
+    "contesto_di_utilizzo": [
+      "Dopo aver letto tutte quelle fake news, ho raggiunto un Echo-mute totale e non mi emoziono più per niente.",
+      "Non provare a farmi fare domande personali; sono in pieno Echo-mute oggi."
+    ],
+    "timestamp": "2026-06-08T18:47:08.666075"
+  },
+  {
+    "parola": "Divergare",
+    "definizione": "Lo stato di confusione mentale o emotiva causato da un eccesso di stimoli contrastanti e informazioni simultanee, rendendo impossibile la concentrazione su un singolo punto.",
+    "contesto_di_utilizzo": [
+      "Dopo aver letto cinque articoli diversi sull'argomento, sono completamente divergato.",
+      "Quando i profili ti bombardano con troppi eventi da vedere, inizi a divergare e non capisci più cosa è importante."
+    ],
+    "timestamp": "2026-06-08T18:51:46.339615"
+  },
+  {
+    "parola": "Lacca-moodare",
+    "definizione": "Avere un'aria o un comportamento eccessivamente curato, artificiale e lucido, tipico di chi sta cercando disperatamente di apparire perfetto per una vetrina sociale (spesso in modo forzato).",
+    "contesto_di_utilizzo": [
+      "Il suo outfit è troppo laccato; sembra che abbia speso più tempo a lucidarsi che a godersi la serata.",
+      "Non provare a lacca-moodare per la foto, siamo qui per essere spontanei, non un catalogo di Instagram."
+    ],
+    "timestamp": "2026-06-08T18:51:46.339631"
+  },
+  {
+    "parola": "Sync-stallo",
+    "definizione": "Lo stato in cui una persona è completamente assorbita e sincronizzata con un'attività o un ambiente, perdendo la consapevolezza del tempo esterno.",
+    "contesto_di_utilizzo": [
+      "Quando ha iniziato a disegnare quel pattern, è entrato in uno sync-stallo totale, non mi ha sentito parlare per mezz'ora.",
+      "Non so come fa a studiare così tanto; deve essere in qualche tipo di sync-stallo produttivo."
+    ],
+    "timestamp": "2026-06-08T18:52:59.544999"
+  },
+  {
+    "parola": "Over-zoomare",
+    "definizione": "Analizzare o esaminare un dettaglio, una situazione o un problema con eccessiva intensità e approfondimento, spesso senza arrivare a conclusioni pratiche.",
+    "contesto_di_utilizzo": [
+      "Smettila di over-zoomare su ogni singolo errore del mio post; non c'è bisogno di analizzare così tanto.",
+      "Il professore tende sempre a over-zoomare sui dettagli storici, perdendo il filo generale della lezione."
+    ],
+    "timestamp": "2026-06-08T18:52:59.545023"
+  }
+]
