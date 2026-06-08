@@ -76,54 +76,40 @@ def append_new_entries(new_entries: List[Dict]) -> List[Dict]:
 # ---------------------------------------------------------------------------
 
 def build_prompt(n: int) -> str:
-    existing     = load_existing_words()
-    known_words  = [e["parola"] for e in existing]
+    existing    = load_existing_words()
+    known_words = [e["parola"] for e in existing]
 
-    if known_words:
-        blacklist = ", ".join(f'"{w}"' for w in known_words)
-        avoid_section = (
-            f"\nParole già generate (NON ripetere nessuna di queste):\n{blacklist}\n"
-        )
+    # Semd only the last 30 words in order to not make the prompt enormus (small models tend to lose focus)
+    recent = known_words[-30:] if len(known_words) > 30 else known_words
+
+    if recent:
+        blacklist = "\n".join(f"- {w}" for w in recent)
+        avoid_section = f"\nParole vietate (non generare nessuna di queste né varianti):\n{blacklist}\n"
     else:
         avoid_section = ""
 
     return f"""
-Sei un generatore creativo e altamente competente di slang italiano contemporaneo.
+Sei un esperto di linguaggio giovanile italiano contemporaneo (Gen Z, social media, meme culture).
 
-Il tuo compito è creare espressioni slang NUOVE, ORIGINALI e NON ESISTENTI, plausibili nell'uso tra giovani italiani (Gen Z e giovani adulti).
+Genera esattamente {n} termini slang INVENTATI ma plausibili — non devono esistere già in italiano.
 
-Regole fondamentali:
-- Genera esattamente {n} voci slang.
-- Ogni voce deve essere verosimile ma non già esistente nel linguaggio attuale.
-- Evita assolutamente duplicati o varianti di parole già note.
-- NON includere termini presenti nella lista seguente (slang già esistenti o già generati):
+Ogni termine può nascere da:
+- abbreviazioni (es. "troppof" = troppo forte)
+- italianizzazione di inglese (es. "scrollare", "floppare")
+- metafore da internet/meme/social
+- storpiature fonetiche creative
 {avoid_section}
-- Non spiegare il processo, non commentare, non aggiungere testo extra.
+Output: SOLO JSON valido, zero testo extra, zero markdown.
 
-Qualità richieste per ogni slang:
-- Deve sembrare naturale in conversazioni informali tra giovani italiani.
-- Può derivare da:
--- abbreviazioni creative
--- italianizzazione di parole inglesi
--- metafore culturali moderne (social, meme, internet, lifestyle)
--- storpiature fonetiche
--- Deve essere facilmente riutilizzabile in contesto reale.
-
-Struttura JSON di output:
 {{
   "entries": [
     {{
-      "parola": "stringa",
-      "definizione": "spiegazione chiara e diretta",
-      "contesto_di_utilizzo": ["esempio di frase 1", "esempio di frase 2"]
+      "parola": "termine inventato",
+      "definizione": "significato breve e diretto",
+      "contesto_di_utilizzo": ["frase esempio 1", "frase esempio 2"]
     }}
   ]
 }}
-
-Vincoli finali:
-- Le definizioni devono essere brevi, chiare e immediatamente comprensibili
-- Gli esempi devono mostrare uso naturale in italiano colloquiale
-- Ogni entry deve essere semanticamente distinta dalle altre
 """
 
 # Quick tip: select the code and press Ctrl + / for commenting/uncommenting in bulk ;)

@@ -157,5 +157,105 @@
       "Sono appena tornato dalla flosch, ho passato tutta la giornata a fare mille cose!"
     ],
     "timestamp": "2026-06-08T13:18:09.043024"
+  },
+  {
+    "parola": "boofoo",
+    "definizione": "Un'idea, un pensiero, una sensazione forte e spesso imprevedibile. Si usa quando si vuole esprimere una grande emozione.",
+    "contesto_di_utilizzo": [
+      "Ma io mi sento boofoo, non so nemmeno cosa succede!",
+      "La musica è boofoo, mi fa venire voglia di ballare"
+    ],
+    "timestamp": "2026-06-08T13:24:58.650207"
+  },
+  {
+    "parola": "scrollsh",
+    "definizione": "Un'immagine o una situazione che genera troppa curiosità o un'ondata di emozioni. Si usa quando si vuole esprimere la necessità di saperne di più.",
+    "contesto_di_utilizzo": [
+      "Ho visto il suo post, è scrollsh! Non lo so nemmeno cosa sia ma mi piace"
+    ],
+    "timestamp": "2026-06-08T13:24:58.650207"
+  },
+  {
+    "parola": "skeebo",
+    "definizione": "Uno scatto di un'immagine che ha un effetto surreale o fantastico. Si usa per descrivere qualcosa di speciale, divertente e fuori dal comune.",
+    "contesto_di_utilizzo": [
+      "Ho scattato una foto con gli occhi aperti e ora è skeebo! Sembra una cosa magica"
+    ],
+    "timestamp": "2026-06-08T13:24:58.650207"
+  },
+  {
+    "parola": "droplit",
+    "definizione": "un'esperienza negativa, come un fallimento improvviso o una delusione.",
+    "contesto_di_utilizzo": [
+      "Ho provato il nuovo gioco, ma mi sono trovato con un droplit. La grafica era buona, ma la meccanica era davvero brutta."
+    ],
+    "timestamp": "2026-06-08T13:26:12.501911"
+  },
+  {
+    "parola": "scoll",
+    "definizione": "un'azione di scrollar in modo frenetico e irrefrenabile.",
+    "contesto_di_utilizzo": [
+      "L'ultimo video della influencer era un vero e proprio scoll! Era così veloce che non riuscivo a seguire."
+    ],
+    "timestamp": "2026-06-08T13:26:12.501911"
+  },
+  {
+    "parola": "memeflow",
+    "definizione": "un'ondata di meme che si diffondono rapidamente online.",
+    "contesto_di_utilizzo": [
+      "Un memeflow sta colpendo i social media! Sono ovunque, sembra un'esplosione di meme in movimento."
+    ],
+    "timestamp": "2026-06-08T13:26:12.501911"
+  },
+  {
+    "parola": "tropshi",
+    "definizione": "un evento particolarmente emozionante o divertente che causa un'esplosione di gioia e urla.",
+    "contesto_di_utilizzo": [
+      "Veniamo a giocare, tropshi! Io la mia squadra è pronta!",
+      "La partita era così intensa, mi sono sciolto in una danza di tropshi"
+    ],
+    "timestamp": "2026-06-08T13:27:32.186927"
+  },
+  {
+    "parola": "scrozzle",
+    "definizione": "descrive un'immagine o un video di TikTok con uno stile creativo e originale.",
+    "contesto_di_utilizzo": [
+      "Hai visto quel scrolzle che ha fatto il giro? È assurdo!",
+      "L'influencer ha pubblicato un scrolzzle per il suo nuovo progetto."
+    ],
+    "timestamp": "2026-06-08T13:27:32.186927"
+  },
+  {
+    "parola": "blorf",
+    "definizione": "una battuta o una frase sarcastica che mette in luce l'inesausto e strano, con un tono ironico.",
+    "contesto_di_utilizzo": [
+      "Scusami, ma non riesco a capire se stai scherzando o stai dicendo la verità. Blorf!",
+      "È stata una giornata davvero blorf! Il mio computer si è spento e ho perso i miei documenti."
+    ],
+    "timestamp": "2026-06-08T13:27:32.186927"
+  },
+  {
+    "parola": "traficano",
+    "definizione": "esprimere un'opinione o una critica con la stessa enfasi e carica di una persona che sta facendo il 'trafficare' in un luogo pubblico.",
+    "contesto_di_utilizzo": [
+      "Ho visto come lui fa sempre, sembrava che volesse sfogarsi. Ma è solo un'altra forma di 'traficano'."
+    ],
+    "timestamp": "2026-06-08T13:32:49.737143"
+  },
+  {
+    "parola": "sfilarona",
+    "definizione": "un'esperienza di social media o online con un'imponenza di contenuti, che genera una frenesia online.",
+    "contesto_di_utilizzo": [
+      "Un video su TikTok ha fatto impazzire la comunità. Era 'sfilarona' - non si può descrivere con parole."
+    ],
+    "timestamp": "2026-06-08T13:32:49.737143"
+  },
+  {
+    "parola": "scrolla-luce",
+    "definizione": "un'espressione che indica un'ascesa rapida di qualcosa su internet o social media, spesso associata a un'ironia.",
+    "contesto_di_utilizzo": [
+      "Ho visto la sua nuova serie su Twitch, si è scrolla-luce! La gente sta ammirando il suo successo."
+    ],
+    "timestamp": "2026-06-08T13:32:49.737143"
   }
 ]
