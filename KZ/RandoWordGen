@@ -1,0 +1,26 @@
+import random 
+
+words = ["vulcano", "eruzione","colata","terremoto","sfortunatamente","disastri","naturali","sono","piuttosto","frequenti","in","italia","probabilmente","ricordate","del","terremoto","che","distrusse","una","storica","sugli","quattro","attivi","molto","complesso","zolle","tettoniche","sempre","stata","soggetta","terremoti","alluvioni"]
+# Build program to produce randomly coined words by joining bigrams (how many? Overlapping?)
+
+
+#Use a random number generator to choose segments from the list -
+# we want a range of words from 5 to 10 letters long 
+def special_ngrams(word, n):
+    """ Yield character ngrams of word that overlap by only one character, 
+        except for the last two ngrams which may overlap by more than one 
+        character. The first and last ngrams of the word are always included. """
+    for start in range(0, len(word) - n, n - 1):
+        yield word[start:start + n]
+    yield word[-n:]
+bigramlists = []
+for word in words:
+    j = list(special_ngrams(word, 2))
+    bigramlists.extend(j)
+
+generated_words = []
+for i in range(6):
+    k = ''.join(random.sample(bigramlists, 3))
+    generated_words.append(k)
+
+print(generated_words)
