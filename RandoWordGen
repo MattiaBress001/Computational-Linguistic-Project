@@ -5,7 +5,7 @@ words = ["vulcano", "eruzione","colata","terremoto","sfortunatamente","disastri"
 
 
 # Use a random number generator to choose segments from the list -
-# we want a range of words from 5 to 10 letters long 
+# We want a range of words from 5 to 10 letters long 
 def special_ngrams(word, n):
     """ Yield character ngrams of word that overlap by only one character, 
         except for the last two ngrams which may overlap by more than one 

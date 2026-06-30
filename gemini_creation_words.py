@@ -3,6 +3,7 @@
 import os
 import requests
 
+# gemini api keys
 #API_KEY = os.environ["GEMINI_API_KEY"]
 #API_KEY = os.environ["GEMINI_API_KEY_1"]
 API_KEY = os.environ["GEMINI_API_KEY_2"]
@@ -11,9 +12,9 @@ url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash
 DEFINIZIONE = '"Una persona che non vince mai, ma che non perde neanche, inutile, mediocre, senza infamia e senza lode, sostanzialmente innocua."'
 payload = {
     "contents": [{
-        "parts": [{"text": 'Sei un madrelingua italiano. Genera una nuova parola che non esiste in italiano per la seguente definizione:'
+        "parts": [{"text": 'Sei un giovane madrelingua italiano. Genera una nuova parola che non esiste in italiano per la seguente definizione:'
         + DEFINIZIONE +
-        'Rispondi solo con la parola.'}]
+        'Rispondi solo con la parola richiesta.'}]
     }],
     "generationConfig": {
         "temperature": 1.0,
