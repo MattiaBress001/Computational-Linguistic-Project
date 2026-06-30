@@ -4,7 +4,7 @@ words = ["vulcano", "eruzione","colata","terremoto","sfortunatamente","disastri"
 # Build program to produce randomly coined words by joining bigrams (how many? Overlapping?)
 
 
-#Use a random number generator to choose segments from the list -
+# Use a random number generator to choose segments from the list -
 # we want a range of words from 5 to 10 letters long 
 def special_ngrams(word, n):
     """ Yield character ngrams of word that overlap by only one character, 
